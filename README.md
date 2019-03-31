@@ -1,2 +1,2 @@
 # thomazetticrm
-Sistema para Empresas. Desenvolvido por Felipe Thomazetti
+Sistema de Gestão para Empresas. Desenvolvido por Felipe Thomazetti
